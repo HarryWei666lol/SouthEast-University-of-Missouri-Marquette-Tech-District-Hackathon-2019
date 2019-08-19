@@ -1,1 +1,1 @@
-# SouthEast-University-of-Missouri-Marquette-Tech-District-Hackathon-
+# SouthEast University of Missouri Marquette Tech District Hackathon 2019
