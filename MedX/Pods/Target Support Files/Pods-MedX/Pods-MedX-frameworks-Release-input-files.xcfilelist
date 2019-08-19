@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-MedX/Pods-MedX-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${PODS_ROOT}/SendBirdSDK/SendBirdSDK.framework
+${PODS_ROOT}/SendBirdSDK/SendBirdSDK.framework.dSYM
